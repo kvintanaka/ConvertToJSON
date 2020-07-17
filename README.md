@@ -1,5 +1,5 @@
 # ConvertToJSON
-Convert a file to JSON Formatted file for easy Serverless Data Manipulation
+Convert a file to JSON Formatted file for easy NoSQL Conversion
 
 # Functionality
 * Convert table styled format to JSON file
